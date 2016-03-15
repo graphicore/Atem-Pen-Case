@@ -30,6 +30,7 @@
   ],
   "dependencies": {
     "Atem-Errors": "graphicore/Atem-Errors",
-    "Atem-Math-Tools": "graphicore/Atem-Math-Tools"
+    "Atem-Math-Tools": "graphicore/Atem-Math-Tools",
+    "opentype.js": ">=0.6.2"
   }
 }
